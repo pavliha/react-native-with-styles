@@ -1,0 +1,8 @@
+{
+  "name": "react-native-with-styles",
+  "version": "1.0.0",
+  "dependencies": {
+    "hoist-non-react-statics": "^3.3.0",
+    "lodash.mergewith": "^4.6.2"
+  }
+}
